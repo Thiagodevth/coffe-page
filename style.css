@@ -88,7 +88,7 @@ section {
 }
 
 .home-container {
-    background: url(./img/home-img.jpg);
+    background: url(./IMG/home-img.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -182,7 +182,7 @@ section {
 .menu .box-container .box {
     text-align: center;
     border: var(--border);
-    padding: 5rem;
+    padding: 3rem;
     cursor: pointer;
     background: #00000048;
 }
