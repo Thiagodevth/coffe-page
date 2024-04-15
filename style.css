@@ -122,7 +122,7 @@ section {
     color: var(--main-color);
     text-align: center;
     text-transform: uppercase;
-    margin-bottom: 2rem;
+    margin: 2rem;
 }
 
 .title span {
@@ -167,6 +167,7 @@ section {
 
 .about-img {
     width: 35rem;
+    margin-top: 2rem;
 }
 
 .box-container {
