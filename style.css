@@ -131,10 +131,12 @@ section {
 }
 
 .about .row {
-    display: flex;
+    display: grid;
+    justify-content: center;
+    justify-items: center;
     align-items: center;
     background-color: var(--black);
-    gap: 1.5rem;
+   
 }
 
 .about .row .content {
